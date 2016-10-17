@@ -13,3 +13,7 @@ There is no doubt that the model of LAX in the game GTA V is fairly accurate. Ho
 ### Episode 8, Citizens United
 
 ![Spillway](images/GTA V Spillway.png)
+
+We don't usually approach from the air in this direction, but this closely matches the Los Santos Freeway near the race track where Lester has a warehous.
+
+![Lester's Warehouse](images/To Lesters Warehouse.png)
