@@ -8,7 +8,7 @@ There is no doubt that the model of LAX in the game GTA V is fairly accurate. Ho
 
 ### Episode 1, Of Mice and Men
 
-![Lifeguard Shack](images/Lifeguard Shack at Beach.png)
+![Lifeguard Shack](images/Lifeguard_Shack_at_Beach.png)
 
 ### Episode 8, Citizens United
 
